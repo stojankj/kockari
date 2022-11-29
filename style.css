@@ -1,0 +1,102 @@
+body {
+  background-color: rgb(77, 209, 77);
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  font-size: 60px;
+}
+
+.stojan {
+  left: 5%;
+  position: relative;
+  width: 20%;
+  height: 300px;
+  border-radius: 31px;
+  display: inline;
+  margin-top: 30px;
+}
+.ja {
+  position: absolute;
+  display: inline;
+  left: 30%; 
+  font-size: 35px;
+  margin-top: 50px;
+
+}
+
+.tonto {
+  left: 5%;
+  position: relative;
+  width: 20%;
+  height: 300px;
+  border-radius: 31px;
+  display: inline;
+  margin-top: 30px;
+}
+.salama {
+  position: absolute;
+  display: inline;
+  left: 30%; 
+  font-size: 35px;
+  margin-top: 50px;
+
+}
+
+.daro {
+  left: 5%;
+  position: relative;
+  width: 20%;
+  height: 300px;
+  border-radius: 31px;
+  display: inline;
+  margin-top: 30px;
+}
+.darko {
+  position: absolute;
+  display: inline;
+  left: 30%; 
+  font-size: 35px;
+  margin-top: 50px;
+
+}
+
+.treva {
+  left: 5%;
+  position: relative;
+  width: 20%;
+  height: 300px;
+  border-radius: 31px;
+  display: inline;
+  margin-top: 30px;
+}
+.majstor {
+  position: absolute;
+  display: inline;
+  left: 30%; 
+  font-size: 35px;
+  margin-top: 50px;
+
+}
+
+.cape {
+  left: 5%;
+  position: relative;
+  width: 20%;
+  height: 300px;
+  border-radius: 31px;
+  display: inline;
+  margin-top: 30px;
+}
+.filip {
+  position: absolute;
+  display: inline;
+  left: 30%; 
+  font-size: 35px;
+  margin-top: 50px;
+
+}
+
